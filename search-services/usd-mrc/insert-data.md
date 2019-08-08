@@ -64,11 +64,13 @@ Key with access to application
 
 {% api-method-response-example httpCode=400 %}
 {% api-method-response-example-description %}
-
+Content is an essential information.
 {% endapi-method-response-example-description %}
 
-```text
-
+```yaml
+{
+    "error_message": "Required is content"
+}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
@@ -119,18 +121,34 @@ Key with access to application
 
 ```yaml
 {
-    "data": {}
+    "data": {
+        "message": "success"
+    }
 }
 ```
 {% endapi-method-response-example %}
 
 {% api-method-response-example httpCode=400 %}
 {% api-method-response-example-description %}
-
+Content is an essential information.
 {% endapi-method-response-example-description %}
 
-```text
+```yaml
+{
+    "error_message": "Required is content"
+}
+```
+{% endapi-method-response-example %}
 
+{% api-method-response-example httpCode=413 %}
+{% api-method-response-example-description %}
+Inserted file is too big
+{% endapi-method-response-example-description %}
+
+```yaml
+{
+    "error_message": "Too big content_length must be shorter than 10000000"
+}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}

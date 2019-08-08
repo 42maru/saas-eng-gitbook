@@ -55,7 +55,7 @@ Number of correct answers to receive in response.
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+Debug is true
 {% endapi-method-response-example-description %}
 
 ```yaml
@@ -65,7 +65,13 @@ Number of correct answers to receive in response.
             "Answer candidate 1",
             "Answer candidate 2",
             "Answer candidate 3"
-        ]
+        ],
+        "query": "Who is owner of Lexus?",
+        "threshold": 0.01,
+        "req_time": "2019-08-08T15:30:00",
+        "passage_response_time": "2019-08-08T15:30:00",
+        "mrc_response_time": "2019-08-08T15:30:00",
+        "entries": []
     }
 }
 ```
@@ -73,11 +79,29 @@ Number of correct answers to receive in response.
 
 {% api-method-response-example httpCode=400 %}
 {% api-method-response-example-description %}
-
+Query key is essential
 {% endapi-method-response-example-description %}
 
-```text
+```yaml
+{
+    "error_message": "Required is query"
+}
+```
+{% endapi-method-response-example %}
 
+{% api-method-response-example httpCode=403 %}
+{% api-method-response-example-description %}
+Wrong API key
+{% endapi-method-response-example-description %}
+
+```yaml
+{
+    "timestamp": "2019-08-08T15:30:17.060+0000",
+    "status": 403,
+    "error": "Forbidden",
+    "message": "Access Denied",
+    "path": "/api/broker/answer"
+}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
