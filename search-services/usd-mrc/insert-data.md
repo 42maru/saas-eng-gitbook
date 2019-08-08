@@ -8,7 +8,7 @@ description: 'In order to use the MRC, you must insert your document.'
 
 You can add documents at the 'Documents' menu.
 
-![&apos;Document&apos; page](../../.gitbook/assets/image%20%2811%29.png)
+![&apos;Document&apos; page](../../.gitbook/assets/image%20%2813%29.png)
 
 Click on the \[File upload\] button, and a new window which you can upload files by drag and drop will pop up.
 
@@ -16,7 +16,7 @@ Click on the \[File upload\] button, and a new window which you can upload files
 Supports formatted files: json, excel
 {% endhint %}
 
-![Insert document](../../.gitbook/assets/image%20%287%29.png)
+![Insert document](../../.gitbook/assets/image%20%288%29.png)
 
 {% api-method method="post" host="http://alpha.42maru.com" path="/api/application/documents" %}
 {% api-method-summary %}
