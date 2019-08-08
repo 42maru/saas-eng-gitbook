@@ -6,11 +6,11 @@ description: 'In order to use the MRC, you must upload your document.'
 
 ## Browser
 
-you can add documents at the Documents page.
+You can add documents at the 'Documents' menu.
 
 ![](../../.gitbook/assets/image.png)
 
-Click on the File Upload button, and a new window which you can upload files by drag and drop will pop up.
+Click on the \[File Upload\] button, and a new window which you can upload files by drag and drop will pop up.
 
 {% hint style="info" %}
 Supports formatted files: json, excel
@@ -24,7 +24,7 @@ Upload a document
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Upload a document.
+Upload a document
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -95,7 +95,7 @@ Upload multiple documents
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Upload multiple documents.
+Upload multiple documents
 {% endapi-method-description %}
 
 {% api-method-spec %}
