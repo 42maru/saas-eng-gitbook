@@ -1,30 +1,30 @@
 ---
-description: 'In order to use the MRC, you must upload your document.'
+description: 'In order to use the MRC, you must insert your document.'
 ---
 
-# Upload document
+# Insert document
 
 ## Browser
 
 You can add documents at the 'Documents' menu.
 
-![](../../.gitbook/assets/image.png)
+![&apos;Document&apos; page](../../.gitbook/assets/image%20%284%29.png)
 
-Click on the \[File Upload\] button, and a new window which you can upload files by drag and drop will pop up.
+Click on the \[File upload\] button, and a new window which you can upload files by drag and drop will pop up.
 
 {% hint style="info" %}
 Supports formatted files: json, excel
 {% endhint %}
 
-![](../../.gitbook/assets/image-11.png)
+![Insert document](../../.gitbook/assets/image%20%287%29.png)
 
 {% api-method method="post" host="http://alpha.42maru.com" path="/api/application/documents" %}
 {% api-method-summary %}
-Upload a document
+Insert a document
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Upload a document
+Insert a document
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -91,11 +91,11 @@ content is an essential information.
 
 {% api-method method="post" host="http://alpha.42maru.com" path="/api/application/documents/bulk" %}
 {% api-method-summary %}
-Upload multiple documents
+Insert multiple documents
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Upload multiple documents
+Insert multiple documents
 {% endapi-method-description %}
 
 {% api-method-spec %}
