@@ -20,7 +20,7 @@
 * [Frequently](features/frequently.md)
 * [Simulation](features/simulation.md)
 * [API](features/api.md)
-* [${APP}](features/app.md)
+* [Application](features/app.md)
 
 ## Additional Resources
 

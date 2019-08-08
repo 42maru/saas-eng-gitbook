@@ -4,7 +4,7 @@ description: >-
   영향을 주지 않습니다.
 ---
 
-# ${APP}
+# Application
 
 ## Setting
 

@@ -39,7 +39,7 @@ If you want to add a new application, you can easily create one with the followi
 2. Switch to the 'Create application' page by clicking on the \[New Application\] in the drop-down menu.
 3. Set all the given items on the 'Create application' page and click on \[Save\] to create the application.
 
-![](.gitbook/assets/4_add-app.jpg)
+![](.gitbook/assets/11.png)
 
 ### Step 3 : Authentication
 
@@ -49,7 +49,7 @@ When you create an application, you can use most of the features in ${platform}.
 
 These values can be found in the 'Settings' menu at the bottom of the left-hand navigation bar.
 
-![http://alpha.42maru.com/applications/{app\_code}/settings](.gitbook/assets/image-5.png)
+![](.gitbook/assets/12.png)
 
 * **Application Information**: View, change, and delete application information.
 * **Application Code**: When using the API, you can determine the key values to identify the application
