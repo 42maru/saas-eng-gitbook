@@ -6,25 +6,23 @@
 ## Search Services
 
 * [MRC](search-services/usd-mrc/README.md)
-  * [Insert document](search-services/usd-mrc/insert-data.md)
-  * [Querying](search-services/usd-mrc/querying.md)
+  * [Document](search-services/usd-mrc/insert-data.md)
+  * [Simulation](search-services/usd-mrc/simulation.md)
 
 ## Features
 
-* [Account](features/usd-mrc.md)
-* [LOG](features/log.md)
-* [Monitoring](features/static/README.md)
-  * [Documents](features/static/documents.md)
-  * [Status](features/static/status.md)
-  * [Latency](features/static/latency.md)
-* [Frequently](features/frequently.md)
-* [Simulation](features/simulation.md)
-* [API](features/api.md)
-* [Application](features/app.md)
+* [Dashboard](features/dashboard.md)
+* [Documents](features/documents.md)
+* [Statistics](features/statistics/README.md)
+  * [Analytics](features/statistics/analytics.md)
+  * [Question history](features/statistics/question-history.md)
+  * [Monitoring](features/statistics/monitoring.md)
+* [Bulk tests](features/bulk-tests.md)
+* [Settings](features/settings.md)
+* [Team](features/team.md)
 
 ## Additional Resources
 
-* [Best Practices](additional-resources/untitled.md)
 * [Glossary](additional-resources/glossary.md)
 * [Security](additional-resources/security.md)
 * [FAQ](additional-resources/usd-mrc.md)

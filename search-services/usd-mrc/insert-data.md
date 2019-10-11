@@ -1,26 +1,46 @@
 ---
-description: 'In order to use the MRC, you must insert your document.'
+description: >-
+  You can upload, modify, and inquiry the data that is a target to the search at
+  the 'Documents' menu. In order to use the MRC, you must insert your document.
 ---
 
-# Insert document
+# Document
 
-## Browser
+### Insert documents by 'File upload' button
 
-You can add documents at the 'Documents' menu.
+![&apos;Document&apos; page](../../.gitbook/assets/image%20%285%29.png)
 
-![&apos;Document&apos; page](../../.gitbook/assets/image%20%2813%29.png)
-
-Click on the \[File upload\] button, and a new window which you can upload files by drag and drop will pop up.
+Click on the \[File upload\] button, and a new window which you can upload files by drag and drop will pop up. The same can be done by clicking on the 'File upload' button in the  '…' icon button at the top right of the page.
 
 {% hint style="info" %}
 Supports formatted files: json, excel
 {% endhint %}
 
-![Insert document](../../.gitbook/assets/image%20%288%29.png)
+![&apos;Upload document&apos; page](../../.gitbook/assets/image%20%283%29.png)
+
+Drop a file or click the area to upload. For Excels, it is recommended that they consist of fields for ID, Title, and Content.Click the 'Preview' button to preview the data**.**
+
+{% hint style="warning" %}
+* At least two columns are required for the Title and Content because the ID is not essential.
+* Only the first sheet of the excel file can be called up.
+* Columns blanked are not imported.
+{% endhint %}
+
+![&apos;Uploaded documents preview&apos; page](../../.gitbook/assets/image%20%2811%29.png)
+
+![&apos;Uploaded documents preview\_field defined&apos; page](../../.gitbook/assets/image%20%2823%29.png)
+
+Click the drop-down box at the top of the first row of the table to define the field to be the ID, Title, and Contents to configure the documents. Then click the 'Save' button at the bottom of the page to upload the file to the server.
+
+### **Insert a single document by 'Add document' button**
+
+![Add document button](../../.gitbook/assets/image%20%2815%29.png)
+
+![&apos;Add a single document&apos; modal](../../.gitbook/assets/image%20%2818%29.png)
 
 {% api-method method="post" host="http://alpha.42maru.com" path="/api/application/documents" %}
 {% api-method-summary %}
-Insert a document
+Insert documents by API
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -185,4 +205,8 @@ content is an essential information.
     }
 ]
 ```
+
+## Documents management
+
+
 

@@ -14,13 +14,13 @@ If you want to sign up, click on \[Sign up for an account\] at the bottom of the
 
 ![&apos;Login&apos; page.](.gitbook/assets/image.png)
 
-![&apos;Sign up&apos; page](.gitbook/assets/image%20%285%29.png)
+![&apos;Sign up&apos; page](.gitbook/assets/image%20%289%29.png)
 
 ### Step 2 : Create an Application
 
 You can create a new application in the 'Create application' page after registration.
 
-![Create application](.gitbook/assets/image%20%283%29.png)
+![Create application](.gitbook/assets/image%20%284%29.png)
 
 * **Name** : Your application name.
 * **Documents language** : Set a language for document searching. The application recognizes the selected language as the language of documents and questions input. Currently, we support 3 languages: Korean, English, and German. You can choose a language for each application. Document language can only be selected when the application is created and this setting cannot be altered after creating the application. if you need to change the language setting, you will need to create a new application.
@@ -51,7 +51,7 @@ When you create an application, you can use most of the features in 42maru platf
 
 These values can be found in the 'Settings' menu at the bottom of the left-hand navigation bar.
 
-![API Keys](.gitbook/assets/image%20%2812%29.png)
+![API Keys](.gitbook/assets/image%20%2819%29.png)
 
 * **Application Information**: View, change, and delete application information.
 * **Application Code**: When using the API, you can determine the key values to identify the application
@@ -69,23 +69,19 @@ Once your account and application have been created, you can take full advantage
 
 ### Features
 
-{% page-ref page="features/usd-mrc.md" %}
+{% page-ref page="features/dashboard.md" %}
 
-{% page-ref page="features/log.md" %}
+{% page-ref page="features/documents.md" %}
 
-{% page-ref page="features/static/" %}
+{% page-ref page="features/statistics/" %}
 
-{% page-ref page="features/frequently.md" %}
+{% page-ref page="features/bulk-tests.md" %}
 
-{% page-ref page="features/simulation.md" %}
+{% page-ref page="features/team.md" %}
 
-{% page-ref page="features/api.md" %}
-
-{% page-ref page="features/app.md" %}
+{% page-ref page="features/settings.md" %}
 
 ### Additional Resources
-
-{% page-ref page="additional-resources/untitled.md" %}
 
 {% page-ref page="additional-resources/glossary.md" %}
 
