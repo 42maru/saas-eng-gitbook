@@ -6,7 +6,7 @@ description: >-
 
 # Dashboard
 
-
+![ Dashboard](../.gitbook/assets/platform42_dashboard.png)
 
 * **API usage by plan :** Shows the API usage by your plan.
 * **Document cumulative amount by plan :** Shows the cumulative amount of the documents by your plan.
