@@ -10,7 +10,7 @@ description: >-
 
 You can see the rankings of the most frequently asked questions from users and check the documents that contain the answers to that question.
 
-![Questions tab](../../.gitbook/assets/image%20%2859%29.png)
+![Questions tab](../../.gitbook/assets/image%20%2860%29.png)
 
 * **Rank:** It shows the rankings of the most frequently asked questions.
 * **Question:** It shows user's question log.

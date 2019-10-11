@@ -6,6 +6,13 @@ description: >-
 
 # Documents
 
+![Document page](../.gitbook/assets/image%20%2824%29.png)
+
+*  **ID:** It is a unique code assigned to a document. If you don't specify the code, the system appoints it itself.
+*  **Title** \(Required\): ****It is the title of a document.
+*  **Content** \(Required\): It is a core target data to the search. MRC is more suitable for searching for moderately long paragraphs than for short sentences.
+* **Created at:** It shows the time the documents uploaded on the server.
+
 ### Insert documents by 'File upload' button
 
 ![&apos;Document&apos; page](../.gitbook/assets/image%20%287%29.png)
@@ -26,17 +33,17 @@ Drop a file or click the area to upload. For Excels, it is recommended that they
 * Columns blanked are not imported.
 {% endhint %}
 
-![&apos;Uploaded documents preview&apos; page](../.gitbook/assets/image%20%2824%29.png)
+![&apos;Uploaded documents preview&apos; page](../.gitbook/assets/image%20%2825%29.png)
 
-![&apos;Uploaded documents preview\_field defined&apos; page](../.gitbook/assets/image%20%2857%29.png)
+![&apos;Uploaded documents preview\_field defined&apos; page](../.gitbook/assets/image%20%2858%29.png)
 
 Click the drop-down box at the top of the first row of the table to define the field to be the ID, Title, and Contents to configure the documents. Then click the 'Save' button at the bottom of the page to upload the file to the server.
 
 ### **Insert a single document by 'Add document' button**
 
-![Add document button](../.gitbook/assets/image%20%2833%29.png)
+![Add document button](../.gitbook/assets/image%20%2834%29.png)
 
-![&apos;Add a single document&apos; modal](../.gitbook/assets/image%20%2849%29.png)
+![&apos;Add a single document&apos; modal](../.gitbook/assets/image%20%2850%29.png)
 
 {% api-method method="post" host="http://alpha.42maru.com" path="/api/application/documents" %}
 {% api-method-summary %}
