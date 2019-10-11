@@ -4,11 +4,11 @@ description: >-
   the 'Documents' menu. In order to use the MRC, you must insert your document.
 ---
 
-# Document
+# Documents
 
 ### Insert documents by 'File upload' button
 
-![&apos;Document&apos; page](../../.gitbook/assets/image%20%285%29.png)
+![&apos;Document&apos; page](../../.gitbook/assets/image%20%287%29.png)
 
 Click on the \[File upload\] button, and a new window which you can upload files by drag and drop will pop up. The same can be done by clicking on the 'File upload' button in the  '…' icon button at the top right of the page.
 
@@ -16,7 +16,7 @@ Click on the \[File upload\] button, and a new window which you can upload files
 Supports formatted files: json, excel
 {% endhint %}
 
-![&apos;Upload document&apos; page](../../.gitbook/assets/image%20%283%29.png)
+![&apos;Upload document&apos; page](../../.gitbook/assets/image%20%285%29.png)
 
 Drop a file or click the area to upload. For Excels, it is recommended that they consist of fields for ID, Title, and Content.Click the 'Preview' button to preview the data**.**
 
@@ -26,17 +26,17 @@ Drop a file or click the area to upload. For Excels, it is recommended that they
 * Columns blanked are not imported.
 {% endhint %}
 
-![&apos;Uploaded documents preview&apos; page](../../.gitbook/assets/image%20%2816%29.png)
+![&apos;Uploaded documents preview&apos; page](../../.gitbook/assets/image%20%2821%29.png)
 
-![&apos;Uploaded documents preview\_field defined&apos; page](../../.gitbook/assets/image%20%2836%29.png)
+![&apos;Uploaded documents preview\_field defined&apos; page](../../.gitbook/assets/image%20%2852%29.png)
 
 Click the drop-down box at the top of the first row of the table to define the field to be the ID, Title, and Contents to configure the documents. Then click the 'Save' button at the bottom of the page to upload the file to the server.
 
 ### **Insert a single document by 'Add document' button**
 
-![Add document button](../../.gitbook/assets/image%20%2822%29.png)
+![Add document button](../../.gitbook/assets/image%20%2830%29.png)
 
-![&apos;Add a single document&apos; modal](../../.gitbook/assets/image%20%2829%29.png)
+![&apos;Add a single document&apos; modal](../../.gitbook/assets/image%20%2845%29.png)
 
 {% api-method method="post" host="http://alpha.42maru.com" path="/api/application/documents" %}
 {% api-method-summary %}

@@ -6,7 +6,7 @@
 ## Search Services
 
 * [MRC](search-services/usd-mrc/README.md)
-  * [Document](search-services/usd-mrc/insert-data.md)
+  * [Documents](search-services/usd-mrc/documents.md)
   * [Simulation](search-services/usd-mrc/simulation.md)
 
 ## Features

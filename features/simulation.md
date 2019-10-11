@@ -1,7 +1,7 @@
 ---
 description: >-
-  The MRC search engine uses the uploaded documents to find answers (to
-  questions).
+  Simulation is the function to test the performance of the MRC with a single
+  question.
 ---
 
 # Simulation

@@ -14,13 +14,13 @@ If you want to sign up, click on \[Sign up for an account\] at the bottom of the
 
 ![&apos;Login&apos; page.](.gitbook/assets/image.png)
 
-![&apos;Sign up&apos; page](.gitbook/assets/image%20%2812%29.png)
+![&apos;Sign up&apos; page](.gitbook/assets/image%20%2817%29.png)
 
 ### Step 2 : Create an Application
 
 You can create a new application in the 'Create application' page after registration.
 
-![Create application](.gitbook/assets/image%20%284%29.png)
+![Create application](.gitbook/assets/image%20%286%29.png)
 
 * **Name** : Your application name.
 * **Documents language** : Set a language for document searching. The application recognizes the selected language as the language of documents and questions input. Currently, we support 3 languages: Korean, English, and German. You can choose a language for each application. Document language can only be selected when the application is created and this setting cannot be altered after creating the application. if you need to change the language setting, you will need to create a new application.
@@ -43,7 +43,7 @@ If you want to add a new application, you can easily create one with the followi
 
 ### Step 3 : Authentication
 
-![Application information](.gitbook/assets/image%20%282%29.png)
+![Application information](.gitbook/assets/image%20%284%29.png)
 
 When you create an application, you can use most of the features in 42maru platform. Application Code value and API Key value of application are required to use the API and SDK.
 
@@ -51,7 +51,7 @@ When you create an application, you can use most of the features in 42maru platf
 
 These values can be found in the 'Settings' menu at the bottom of the left-hand navigation bar.
 
-![API Keys](.gitbook/assets/image%20%2830%29.png)
+![API Keys](.gitbook/assets/image%20%2846%29.png)
 
 * **Application Information**: View, change, and delete application information.
 * **Application Code**: When using the API, you can determine the key values to identify the application
