@@ -23,6 +23,7 @@
 
 ## Additional Resources
 
+* [System Architecture](additional-resources/system-architecture.md)
 * [Glossary](additional-resources/glossary.md)
 * [Security](additional-resources/security.md)
 * [FAQ](additional-resources/usd-mrc.md)
