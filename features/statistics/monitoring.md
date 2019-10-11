@@ -18,13 +18,13 @@ description: >-
 
 ![&apos;Search Latency&apos; Tab](../../.gitbook/assets/image%20%2812%29.png)
 
-![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2837%29.png)
+![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2838%29.png)
 
-![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2834%29.png)
+![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2835%29.png)
 
 ![&apos;Search operation&apos; Tab](../../.gitbook/assets/image%20%2810%29.png)
 
-![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2829%29.png)
+![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2830%29.png)
 
-![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2828%29.png)
+![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2829%29.png)
 

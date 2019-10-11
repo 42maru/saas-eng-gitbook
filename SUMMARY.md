@@ -10,8 +10,8 @@
 ## Features
 
 * [Dashboard](features/dashboard.md)
-* [Documents](features/documents-1.md)
-* [Simulation](features/simulation-1.md)
+* [Documents](features/documents.md)
+* [Simulation](features/simulation.md)
 * [Statistics](features/statistics/README.md)
   * [Analytics](features/statistics/analytics.md)
   * [Question history](features/statistics/question-history.md)

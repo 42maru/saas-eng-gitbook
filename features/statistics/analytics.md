@@ -6,15 +6,20 @@ description: >-
 
 # Analytics
 
-### Question tab
+### Questions tab
 
 You can see the rankings of the most frequently asked questions from users and check the documents that contain the answers to that question.
 
-The count indicates the number of questions received.
+![Questions tab](../../.gitbook/assets/image%20%2858%29.png)
 
-The drop-down menu 'All' indicates the number of answers given and the number of unanswerable.
+* **Rank:** It shows the rankings of the most frequently asked questions.
+* **Question:** It shows user's question log.
+* **Count:** It shows the count indicates the number of questions received.
+* **All:** The drop-down menu 'All' indicates the number of answers given and the number of unanswerable.
 
-### Document tab
+### Documents tab
 
 You can check the ranking of the documents most frequently viewed by the users' questions and the list of questions that have led them to view them.
+
+![Documents tab](../../.gitbook/assets/image%20%2815%29.png)
 
