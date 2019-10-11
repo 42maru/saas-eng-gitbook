@@ -14,7 +14,7 @@ If you want to sign up, click on \[Sign up for an account\] at the bottom of the
 
 ![&apos;Login&apos; page.](.gitbook/assets/image.png)
 
-![&apos;Sign up&apos; page](.gitbook/assets/image%20%2810%29.png)
+![&apos;Sign up&apos; page](.gitbook/assets/image%20%2812%29.png)
 
 ### Step 2 : Create an Application
 
@@ -51,7 +51,7 @@ When you create an application, you can use most of the features in 42maru platf
 
 These values can be found in the 'Settings' menu at the bottom of the left-hand navigation bar.
 
-![API Keys](.gitbook/assets/image%20%2824%29.png)
+![API Keys](.gitbook/assets/image%20%2830%29.png)
 
 * **Application Information**: View, change, and delete application information.
 * **Application Code**: When using the API, you can determine the key values to identify the application
