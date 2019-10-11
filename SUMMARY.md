@@ -5,15 +5,13 @@
 
 ## Search Services
 
-* [MRC](search-services/usd-mrc/README.md)
-  * [Documents](search-services/usd-mrc/documents.md)
-  * [Simulation](search-services/usd-mrc/simulation.md)
+* [MRC](search-services/usd-mrc.md)
 
 ## Features
 
 * [Dashboard](features/dashboard.md)
-* [Documents](features/documents.md)
-* [Simulation](features/simulation.md)
+* [Documents](features/documents-1.md)
+* [Simulation](features/simulation-1.md)
 * [Statistics](features/statistics/README.md)
   * [Analytics](features/statistics/analytics.md)
   * [Question history](features/statistics/question-history.md)

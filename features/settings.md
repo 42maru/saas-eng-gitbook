@@ -4,7 +4,7 @@ description: You can view information about the application and change settings.
 
 # Settings
 
-![&apos;Settings&apos; page](../.gitbook/assets/image%20%2822%29.png)
+![&apos;Settings&apos; page](../.gitbook/assets/image%20%2823%29.png)
 
 ### Application Information
 
@@ -31,11 +31,11 @@ description: You can view information about the application and change settings.
 
 * **IP Blacklist:** It shows IPs that blocked from all APIs access.
 
-![&apos;Settings-IP Blacklist&apos; page](../.gitbook/assets/image%20%2842%29.png)
+![&apos;Settings-IP Blacklist&apos; page](../.gitbook/assets/image%20%2843%29.png)
 
 ### Regions
 
 * **Regions:** You can choose servers in multiple regions. API requests are routed to a server that has a faster response rate.
 
-![&apos;Settings-Regions&apos; page](../.gitbook/assets/image%20%2839%29.png)
+![&apos;Settings-Regions&apos; page](../.gitbook/assets/image%20%2840%29.png)
 
