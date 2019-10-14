@@ -10,17 +10,17 @@ description: >-
 
 ![&apos;Bulk test list&apos; page](../.gitbook/assets/image%20%2842%29.png)
 
-Click the 'Create test' button to create a test. 
+Click the 'Create test' button to create a test.
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-You can set a name and description of the test.
+You can set a name of the test and describe it.
 
 ### Bulk test management
 
 ![](../.gitbook/assets/image%20%2841%29.png)
 
-* **Edit button:** Click the Edit button, which is a sub-button of the ... button to change the test name, description, and threshold. You can see the created and modified date.
+* **Edit button:** Click the Edit button, a sub-button of the ... button to change the name, description and threshold of the test. You can see the created and modified date.
 * **Make a copy button:** You can make a duplication of the test.
 * **Delete button:** You can delete the test.
 
@@ -28,7 +28,7 @@ You can set a name and description of the test.
 
 ![&apos;Bulk test&apos; page](../.gitbook/assets/image%20%2836%29.png)
 
-* **Test information:** You can see the test name, the description, and the file name uploaded to the test. To modify the name, description, and threshold, click the '...' button and the 'Edit' button.
+* **Test information:** You can see the name, the description and the file name uploaded to the test. To modify the name, description and threshold, click the '...' button and the 'Edit' button.
 * **Result statistics:** You can see the total number of test cases in the test, the number of success cases and failure cases.
 * **Result detail:** You can see the detailed results of the test cases. 
 
@@ -40,19 +40,19 @@ The test file must be uploaded to proceed with the test.
 
 ![Download a template for bulk test and upload the prepared bulk test file](../.gitbook/assets/image%20%2846%29.png)
 
-Download the template to put the test cases on it. Type the questions in the first column and answers you expect in the second column on the excel sheet.
+Download a test case template, and type questions in the first column and expected answers in the second column of the xlsx sheet.
 
-If you have prepared a file for bulk testing, place it in the area and click the 'File upload' button.
+If you have a prepared file for bulk testing, drag and drop the file in the box and click the 'File upload' button.
 
 ### **Test case upload by '+ Add' button**
 
-You can put a single test case clicking the '+ADD' button. 
+You can add a single test case with clicking the '+Add' button.
 
 ![&apos;+Add&apos; button for upload a test case](../.gitbook/assets/image%20%2857%29.png)
 
 ### Run the bulk test
 
-Click the green '&gt;&gt; test' button to run the bulk test. Or click 'run' icon button on the row that can run a singular test.
+Click the green '&gt;&gt; test' button to run bulk testing. To run a singular test, click 'run' icon button on the row.
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 

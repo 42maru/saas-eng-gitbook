@@ -1,18 +1,18 @@
 ---
 description: >-
-  Shows the number of API call requests for Query input, Document writes, and
-  various operations.
+  Shows the number of API call requests for query input, document writing
+  authorities and various operations.
 ---
 
 # Monitoring
 
-* **Usage:** It shows the number of API call requests for query input, document writes, and various operations.
-* **Latency:** It shows the speed of the search API, which is the slowest response.  You can check the system status and detect errors.
-* **No answer:** It shows the rate of the result status for the question of whether it supported the answer or not.
+* **Usage:** Shows the number of API call requests for query input, document writing authorities and various operations.
+* **Latency:** Shows the slowest response speed of the search API. You can check the system status and detect errors.
+* **No answer:** Shows the rate of the result status for the question whether it provided the answer or not.
 * **Documents:** Shows the cumulative amount of documents.
-* **Search operation:** It shows search operation call counts.
-* **API Status:** It shows API status for the last 90 days.
-* **Log history:** It shows API log history.
+* **Search operation:** Shows search operation call counts.
+* **API Status:** Shows API status in the last 90 days.
+* **Log history:** Shows API log history.
 
 ![&apos;API usage&apos; Tab](../../.gitbook/assets/image%20%2811%29.png)
 

@@ -1,25 +1,25 @@
 ---
 description: >-
-  Analytics shows statistics on the most frequently asked questions and most
-  often viewed documents from users.
+  Analytics shows statistics on the most frequently asked questions and the most
+  viewed documents by users.
 ---
 
 # Analytics
 
 ### Questions tab
 
-You can see the rankings of the most frequently asked questions from users and check the documents that contain the answers to that question.
+You can see the rankings of the most frequently asked questions and check the documents which contain the answers to these questions.
 
 ![Questions tab](../../.gitbook/assets/image%20%2860%29.png)
 
-* **Rank:** It shows the rankings of the most frequently asked questions.
-* **Question:** It shows user's question log.
-* **Count:** It shows the count indicates the number of questions received.
-* **All:** The drop-down menu 'All' indicates the number of answers given and the number of unanswerable.
+* **Rank:** Shows the rankings of the most frequently asked questions.
+* **Question:** Shows users' question log.
+* **Count:** Shows the number of the question retrieved.
+* **All:** Shows the number of answers presented and the number of unanswerables.
 
 ### Documents tab
 
-You can check the ranking of the documents most frequently viewed by the users' questions and the list of questions that have led them to view them.
+You can check the rankings of the most frequently viewed documents and the list of questions used to retrieve the documents.
 
 ![Documents tab](../../.gitbook/assets/image%20%2815%29.png)
 

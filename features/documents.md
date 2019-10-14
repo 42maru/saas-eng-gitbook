@@ -1,43 +1,43 @@
 ---
 description: >-
-  You can upload, modify, and inquiry the data that is a target to the search at
-  the 'Documents' menu. In order to use the MRC, you must insert your document.
+  You can upload, modify and inquire the target data for searching in the
+  'Documents' menu. To use MRC, you must upload your documents.
 ---
 
 # Documents
 
 ![Document page](../.gitbook/assets/image%20%2824%29.png)
 
-*  **ID:** It is a unique code assigned to a document. If you don't specify the code, the system appoints it itself.
-*  **Title** \(Required\): ****It is the title of a document.
-*  **Content** \(Required\): It is a core target data to the search. MRC is more suitable for searching for moderately long paragraphs than for short sentences.
-* **Created at:** It shows the time the documents uploaded on the server.
+*  **ID:** A unique code assigned to each document. If you do not specify a code, the system will automatically assign a code.
+*  **Title** \(Required\): ****A title of a document.
+*  **Content** \(Required\): Core target data for searching. Searching with MRC is more suitable for longer paragraphs than shorter ones.
+* **Created at:** Shows the time the documents uploaded on the server.
 
 ### Insert documents by 'File upload' button
 
 ![&apos;Document&apos; page](../.gitbook/assets/image%20%287%29.png)
 
-Click on the \[File upload\] button, and a new window which you can upload files by drag and drop will pop up. The same can be done by clicking on the 'File upload' button in the  '…' icon button at the top right of the page.
+Click the \[File upload\] button, and a new drag and drop window for upload will pop up. The same can be done by clicking the 'File upload' button in the '…' icon button at the top right of the page.
 
 {% hint style="info" %}
-Supports formatted files: json, excel
+Supported file formats: json, xlsx
 {% endhint %}
 
 ![&apos;Upload document&apos; page](../.gitbook/assets/image%20%285%29.png)
 
-Drop a file or click the area to upload. For Excels, it is recommended that they consist of fields for ID, Title, and Content.Click the 'Preview' button to preview the data**.**
+Drop a file or click the box to upload. For xlsx files, it is recommended that the files contain fields for ID, Title and Content. Click the 'Preview' button to preview the data.
 
 {% hint style="warning" %}
-* At least two columns are required for the Title and Content because the ID is not essential.
-* Only the first sheet of the excel file can be called up.
-* Columns blanked are not imported.
+* Title and Content are mandatory, and ID is optional.
+* Only the first sheet of the xlsx file can be called up.
+* Blanked columns are not imported.
 {% endhint %}
 
 ![&apos;Uploaded documents preview&apos; page](../.gitbook/assets/image%20%2825%29.png)
 
 ![&apos;Uploaded documents preview\_field defined&apos; page](../.gitbook/assets/image%20%2858%29.png)
 
-Click the drop-down box at the top of the first row of the table to define the field to be the ID, Title, and Contents to configure the documents. Then click the 'Save' button at the bottom of the page to upload the file to the server.
+To configure ID, Title and Contents fields of documents, click the drop-down box at the top of the first row of the table. Then, click the 'Save' button at the bottom of the page to upload the file to the server.
 
 ### **Insert a single document by 'Add document' button**
 

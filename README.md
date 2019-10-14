@@ -2,10 +2,8 @@
 
 ![](.gitbook/assets/undefined.png)
 
-Platform42 is a question and answering system based on AI deep learning technology that finds answers to customer's questions from the document you've got.
+Platform42 is an AI question and answering system based on deep learning technology. Platform42 semantically understands a user’s question and finds a single answer from documents. When a user asks a question, Platform42 searches for relevant documents and select several candidate documents which might have the correct answer. Then, MRC\* analyzes the candidates and presents a single answer from the documents.
 
-On platform 42, when a customer asks a question, the system search for documents that are relevant to the question and pick several candidate documents out that might have the correct answer. After that, MRC\* reads the candidates and presents a single answer within them.
-
-\* MRC : Machine Reading Comprehension is a system in which artificial intelligence reads and understands documents and gives answers to human questions.   
+\* MRC : Machine Reading Comprehension is a system in which an artificial intelligence reads and understands documents and gives answers to human questions.  
 
 

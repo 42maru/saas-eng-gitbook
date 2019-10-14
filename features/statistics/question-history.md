@@ -1,18 +1,18 @@
 ---
 description: >-
-  Can inquiry users' questions for a specific time and date and view the logs of
-  the tester and the actual user separately.
+  You can find users' questions for a specific time and date and view logs of
+  testers and actual target users separately.
 ---
 
 # Question history
 
 ![Question history page](../../.gitbook/assets/image%20%2822%29.png)
 
-* **Request time:** It shows the time that search API requested.
-* **All type:** It shows user's type. By this filter, you can view the logs of the tester and actual user separately.
-* **Query:** It is the list of the questions that user put.
-* **Answer:** It is the list of the answers that MRC choose to the questions.
-* **Document:** It is the list of the documents that involves the answers to the questions.
+* **Request time:** Shows the time that search API was requested.
+* **All type:** Shows user's types. With this filter, you can view logs of testers and actual users separately.
+* **Query:** The list of the questions from users.
+* **Answer:** The list of the MRC answers to the questions.
+* **Document:** The list of the documents containing the answers to the questions.
 
 
 
