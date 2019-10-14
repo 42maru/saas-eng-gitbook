@@ -14,17 +14,17 @@ description: >-
 * **API Status:** Shows API status in the last 90 days.
 * **Log history:** Shows API log history.
 
-![&apos;API usage&apos; Tab](../../.gitbook/assets/image%20%2811%29.png)
+![&apos;API usage&apos; Tab](../../.gitbook/assets/image%20%2812%29.png)
 
-![&apos;Search Latency&apos; Tab](../../.gitbook/assets/image%20%2812%29.png)
+![&apos;Search Latency&apos; Tab](../../.gitbook/assets/image%20%2813%29.png)
 
-![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2840%29.png)
+![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2845%29.png)
 
-![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2837%29.png)
+![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2842%29.png)
 
-![&apos;Search operation&apos; Tab](../../.gitbook/assets/image%20%2810%29.png)
+![&apos;Search operation&apos; Tab](../../.gitbook/assets/image%20%2811%29.png)
 
-![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2832%29.png)
+![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2837%29.png)
 
-![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2831%29.png)
+![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2836%29.png)
 

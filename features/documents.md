@@ -6,7 +6,7 @@ description: >-
 
 # Documents
 
-![Document page](../.gitbook/assets/image%20%2824%29.png)
+![Document page](../.gitbook/assets/image%20%2827%29.png)
 
 *  **ID:** A unique code assigned to each document. If you do not specify a code, the system will automatically assign a code.
 *  **Title** \(Required\): ****A title of a document.
@@ -33,17 +33,17 @@ Drop a file or click the box to upload. For xlsx files, it is recommended that t
 * Blanked columns are not imported.
 {% endhint %}
 
-![&apos;Uploaded documents preview&apos; page](../.gitbook/assets/image%20%2825%29.png)
+![&apos;Uploaded documents preview&apos; page](../.gitbook/assets/image%20%2828%29.png)
 
-![&apos;Uploaded documents preview\_field defined&apos; page](../.gitbook/assets/image%20%2858%29.png)
+![&apos;Uploaded documents preview\_field defined&apos; page](../.gitbook/assets/image%20%2866%29.png)
 
 To configure ID, Title and Contents fields of documents, click the drop-down box at the top of the first row of the table. Then, click the 'Save' button at the bottom of the page to upload the file to the server.
 
 ### **Insert a single document by 'Add document' button**
 
-![Add document button](../.gitbook/assets/image%20%2834%29.png)
+![Add document button](../.gitbook/assets/image%20%2839%29.png)
 
-![&apos;Add a single document&apos; modal](../.gitbook/assets/image%20%2850%29.png)
+![&apos;Add a single document&apos; modal](../.gitbook/assets/image%20%2857%29.png)
 
 {% api-method method="post" host="http://alpha.42maru.com" path="/api/application/documents" %}
 {% api-method-summary %}
