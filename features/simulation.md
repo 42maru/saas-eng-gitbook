@@ -10,11 +10,11 @@ description: >-
 
 Navigate the 'Simulation' menu. Then enter your questions into the text box.
 
-![http://alpha.42maru.com/applications/{app\_code}/mrc/simulation](../.gitbook/assets/image%20%2843%29.png)
+![&apos;Simulation&apos; page](../.gitbook/assets/image%20%2852%29.png)
 
 If you have entered the questions correctly, you can check the answers and the retrieved documents. The correct answer is sorted in descending order by the confidence value.
 
-![The value that appears with the correct answer \(0.996\) indicates the reliability of the correct answer.](../.gitbook/assets/image%20%2863%29.png)
+![&apos;Simulation&apos; page](../.gitbook/assets/image%20%2812%29.png)
 
 {% api-method method="get" host="http://alpha.42maru.com" path="/api/broker/answer" %}
 {% api-method-summary %}

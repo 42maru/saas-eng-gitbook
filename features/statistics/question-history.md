@@ -6,7 +6,7 @@ description: >-
 
 # Question history
 
-![Question history page](../../.gitbook/assets/image%20%2824%29.png)
+![Question history page](../../.gitbook/assets/image%20%2825%29.png)
 
 * **Request time:** Shows the time that search API was requested.
 * **All type:** Shows user's types. With this filter, you can view logs of testers and actual users separately.

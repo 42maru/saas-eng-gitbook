@@ -14,17 +14,33 @@ description: >-
 * **API Status:** Shows API status in the last 90 days.
 * **Log history:** Shows API log history.
 
-![&apos;API usage&apos; Tab](../../.gitbook/assets/image%20%2812%29.png)
+{% tabs %}
+{% tab title="Usage" %}
+![&apos;API usage&apos; Tab](../../.gitbook/assets/image%20%2813%29.png)
+{% endtab %}
 
-![&apos;Search Latency&apos; Tab](../../.gitbook/assets/image%20%2813%29.png)
+{% tab title="Latency" %}
+![&apos;Search Latency&apos; Tab](../../.gitbook/assets/image%20%2814%29.png)
+{% endtab %}
 
-![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2845%29.png)
+{% tab title="No answer" %}
+![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2846%29.png)
+{% endtab %}
 
-![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2842%29.png)
+{% tab title="Documents" %}
+![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2843%29.png)
+{% endtab %}
 
+{% tab title="Search operations" %}
 ![&apos;Search operation&apos; Tab](../../.gitbook/assets/image%20%2811%29.png)
+{% endtab %}
 
-![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2837%29.png)
+{% tab title="Status" %}
+![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2838%29.png)
+{% endtab %}
 
-![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2836%29.png)
+{% tab title="Log history" %}
+![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2837%29.png)
+{% endtab %}
+{% endtabs %}
 

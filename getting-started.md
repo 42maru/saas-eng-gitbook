@@ -12,9 +12,9 @@ To use 42maru platform search service, you need to create an account and an appl
 
 If you want to sign up, click on \[Sign up for an account\] at the bottom of the 'Sign in' page.
 
-![&apos;Sign in&apos; page](.gitbook/assets/image%20%2819%29.png)
+![&apos;Sign in&apos; page](.gitbook/assets/image%20%2820%29.png)
 
-![&apos;Sign up&apos; page](.gitbook/assets/image%20%2832%29.png)
+![&apos;Sign up&apos; page](.gitbook/assets/image%20%2833%29.png)
 
 ### Step 2 : Create an Application
 
@@ -39,11 +39,11 @@ If you want to add a new application, you can easily create one with the followi
 2. Switch to the 'Create application' page by clicking on the \[New Application\] in the drop-down menu.
 3. Set all the given items on the 'Create application' page and click on \[Save\] to create the application.
 
-![Initial page](.gitbook/assets/image%20%2853%29.png)
+![Initial page](.gitbook/assets/image%20%2855%29.png)
 
 ### Step 3 : Authentication
 
-![Application information](.gitbook/assets/image%20%2830%29.png)
+![Application information](.gitbook/assets/image%20%2831%29.png)
 
 When you create an application, you can use most of the features in 42maru platform. Application Code value and API Key value of application are required to use the API and SDK.
 
@@ -51,7 +51,7 @@ When you create an application, you can use most of the features in 42maru platf
 
 These values can be found in the 'Settings' menu at the bottom of the left-hand navigation bar.
 
-![API Key](.gitbook/assets/image%20%2858%29.png)
+![API Key](.gitbook/assets/image%20%2860%29.png)
 
 * **Application Information**: View, change, and delete application information.
 * **Application Code**: When using the API, you can determine the key values to identify the application
