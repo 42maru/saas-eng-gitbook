@@ -9,17 +9,14 @@ description: You can view information about the application and change settings.
 ### Application Information
 
 * **Application name:** You can modify the name of the application.
-* **Threshold:** A threshold determines whether to expose the result selected by the search engine as a correct answer based on reliability.
-* **Delete application**: You can delete the application. To delete the app requires two-factor authentication to typing the name of the application.
+* **Threshold:** A threshold determines whether to expose the search result as an answer based on reliability.
+* **Delete application**: You can delete the application. To delete the application, it is required to type the application name for two-factor authentication.
 
 ![&apos;Settings-Application Info&apos; page](../.gitbook/assets/image%20%288%29.png)
 
 ### Application Code / API
 
-* **Application code:** The application code will be used to identify the user's application.
-
-  Click the 'circle arrow' icon to reissue API code.
-
+* **Application code:** The application code will be used to identify the user's application. Click the 'circle arrow' icon to reissue API code.
 * **The private API key:** It is recommended to be secure and used only at the back-end.
 * **The admin API key:** It manages API keys and is used to generate, update, and delete records. It is recommended to be secure and used only at the back-end.
 * **The monitoring API key:** It is used to check the monitoring application. It is recommended to be secure and used only at the back-end.
@@ -29,7 +26,7 @@ description: You can view information about the application and change settings.
 
 ### IP Blacklist
 
-* **IP Blacklist:** It shows IPs that blocked from all APIs access.
+* **IP Blacklist:** Shows blocked IPs from all APIs access.
 
 ![&apos;Settings-IP Blacklist&apos; page](../.gitbook/assets/image%20%2847%29.png)
 
