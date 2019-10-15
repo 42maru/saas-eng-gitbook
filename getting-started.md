@@ -39,7 +39,7 @@ If you want to add a new application, you can easily create one with the followi
 2. Switch to the 'Create application' page by clicking on the \[New Application\] in the drop-down menu.
 3. Set all the given items on the 'Create application' page and click on \[Save\] to create the application.
 
-![Initial page](.gitbook/assets/image%20%2857%29.png)
+![Initial page](.gitbook/assets/image%20%2858%29.png)
 
 ### Step 3 : Authentication
 
@@ -51,7 +51,7 @@ When you create an application, you can use most of the features in 42maru platf
 
 These values can be found in the 'Settings' menu at the bottom of the left-hand navigation bar.
 
-![API Key](.gitbook/assets/image%20%2862%29.png)
+![API Key](.gitbook/assets/image%20%2863%29.png)
 
 * **Application Information**: View, change, and delete application information.
 * **Application Code**: When using the API, you can determine the key values to identify the application

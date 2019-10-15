@@ -8,11 +8,11 @@ description: >-
 
 ### Create a test
 
-![&apos;Bulk test list&apos; page](../.gitbook/assets/image%20%2850%29.png)
+![&apos;Bulk test list&apos; page](../.gitbook/assets/image%20%2851%29.png)
 
 Click the 'Create test' button to create a test.
 
-![&apos;Create a test&apos; modal](../.gitbook/assets/image%20%2867%29.png)
+![&apos;Create a test&apos; modal](../.gitbook/assets/image%20%2868%29.png)
 
 You can set a name of the test and describe it.
 
@@ -38,7 +38,7 @@ The test file must be uploaded to proceed with the test.
 
 ![&apos;Add a file&apos; for bulk test](../.gitbook/assets/image%20%281%29.png)
 
-![Download a template for bulk test and upload the prepared bulk test file](../.gitbook/assets/image%20%2855%29.png)
+![Download a template for bulk test and upload the prepared bulk test file](../.gitbook/assets/image%20%2856%29.png)
 
 Download a test case template, and type questions in the first column and expected answers in the second column of the xlsx sheet.
 
@@ -48,7 +48,7 @@ If you have a prepared file for bulk testing, drag and drop the file in the box 
 
 You can add a single test case with clicking the '+Add' button.
 
-![&apos;+Add&apos; button for upload a test case](../.gitbook/assets/image%20%2870%29.png)
+![&apos;+Add&apos; button for upload a test case](../.gitbook/assets/image%20%2850%29.png)
 
 ### Run the bulk test
 
