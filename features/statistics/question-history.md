@@ -8,6 +8,8 @@ description: >-
 
 ![Question history page](../../.gitbook/assets/image%20%2826%29.png)
 
+The question history table consists of the following columns:
+
 * **Request time:** Shows the time that search API was requested.
 * **All type:** Shows user's types. With this filter, you can view logs of testers and actual users separately.
 * **Query:** The list of the questions from users.
