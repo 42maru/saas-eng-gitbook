@@ -28,11 +28,11 @@ description: You can view information about the application and change settings.
 
 * **IP Blacklist:** Shows blocked IPs from all APIs access.
 
-![&apos;Settings-IP Blacklist&apos; page](../.gitbook/assets/image%20%2855%29.png)
+![&apos;Settings-IP Blacklist&apos; page](../.gitbook/assets/image%20%2856%29.png)
 
 ### Regions
 
 * **Regions:** You can choose servers in multiple regions. API requests are routed to a server that has a faster response rate.
 
-![&apos;Settings-Regions&apos; page](../.gitbook/assets/image%20%2850%29.png)
+![&apos;Settings-Regions&apos; page](../.gitbook/assets/image%20%2851%29.png)
 
