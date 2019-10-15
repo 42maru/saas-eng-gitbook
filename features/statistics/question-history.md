@@ -6,8 +6,6 @@ description: >-
 
 # Question history
 
-![Question history page](../../.gitbook/assets/image%20%2826%29.png)
-
 The question history table consists of the following columns:
 
 * **Request time:** Shows the time that search API was requested.
@@ -15,6 +13,8 @@ The question history table consists of the following columns:
 * **Query:** The list of the questions from users.
 * **Answer:** The list of the MRC answers to the questions.
 * **Document:** The list of the documents containing the answers to the questions.
+
+![Question history page](../../.gitbook/assets/image%20%2826%29.png)
 
 
 
