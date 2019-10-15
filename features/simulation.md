@@ -10,7 +10,7 @@ description: >-
 
 Navigate the 'Simulation' menu. Then enter your questions into the text box.
 
-![&apos;Simulation&apos; page](../.gitbook/assets/image%20%2852%29.png)
+![&apos;Simulation&apos; page](../.gitbook/assets/image%20%2853%29.png)
 
 If you have entered the questions correctly, you can check the answers and the retrieved documents. The correct answer is sorted in descending order by the confidence value.
 

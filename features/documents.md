@@ -6,7 +6,7 @@ description: >-
 
 # Documents
 
-![Document page](../.gitbook/assets/image%20%2828%29.png)
+![&apos;Document&apos; page](../.gitbook/assets/doc_upload_4.PNG)
 
 *  **ID:** A unique code assigned to each document. If you do not specify a code, the system will automatically assign a code.
 *  **Title** \(Required\): ****A title of a document.
@@ -15,9 +15,9 @@ description: >-
 
 ### Insert documents by 'File upload' button
 
-![&apos;Document&apos; page](../.gitbook/assets/image%20%287%29.png)
-
 Click the \[File upload\] button, and a new drag and drop window for upload will pop up. The same can be done by clicking the 'File upload' button in the '…' icon button at the top right of the page.
+
+![&apos;Document default\(File upload\)&apos; page](../.gitbook/assets/doc_1.PNG)
 
 {% hint style="info" %}
 Supported file formats: json, xlsx
@@ -33,17 +33,17 @@ Drop a file or click the box to upload. For xlsx files, it is recommended that t
 * Blanked columns are not imported.
 {% endhint %}
 
-![&apos;Uploaded documents preview&apos; page](../.gitbook/assets/image%20%2829%29.png)
+![&apos;Document upload file preview&apos; page](../.gitbook/assets/doc_upload_2.PNG)
 
-![&apos;Uploaded documents preview\_field defined&apos; page](../.gitbook/assets/image%20%2868%29.png)
+![&apos;Document upload file preview\_configure the ID, Title, C&apos; page](../.gitbook/assets/doc_upload_3_2.PNG)
 
 To configure ID, Title and Contents fields of documents, click the drop-down box at the top of the first row of the table. Then, click the 'Save' button at the bottom of the page to upload the file to the server.
 
 ### **Insert a single document by 'Add document' button**
 
-![Add document button](../.gitbook/assets/image%20%2840%29.png)
+![&apos;Add a document&apos; button](../.gitbook/assets/image%20%2818%29.png)
 
-![&apos;Add a single document&apos; modal](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/doc_upload_5.PNG)
 
 {% api-method method="post" host="http://alpha.42maru.com" path="/api/application/documents" %}
 {% api-method-summary %}

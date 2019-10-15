@@ -24,11 +24,11 @@ description: >-
 {% endtab %}
 
 {% tab title="No answer" %}
-![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2846%29.png)
+![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2847%29.png)
 {% endtab %}
 
 {% tab title="Documents" %}
-![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2843%29.png)
+![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2844%29.png)
 {% endtab %}
 
 {% tab title="Search operations" %}
@@ -36,11 +36,11 @@ description: >-
 {% endtab %}
 
 {% tab title="Status" %}
-![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2838%29.png)
+![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2839%29.png)
 {% endtab %}
 
 {% tab title="Log history" %}
-![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2837%29.png)
+![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2838%29.png)
 {% endtab %}
 {% endtabs %}
 
