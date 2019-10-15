@@ -6,6 +6,8 @@ description: >-
 
 # Monitoring
 
+We provide 7 system monitoring statistics as follows :
+
 * **Usage:** Shows the number of API call requests for query input, document writing authorities and various operations.
 * **Latency:** Shows the slowest response speed of the search API. You can check the system status and detect errors.
 * **No answer:** Shows the rate of the result status for the question whether it provided the answer or not.
