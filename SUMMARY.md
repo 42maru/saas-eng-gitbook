@@ -19,7 +19,6 @@
 * [Bulk tests](features/bulk-tests.md)
 * [Settings](features/settings.md)
 * [Team](features/team.md)
-* [Untitled](features/untitled.md)
 
 ## Additional Resources
 
