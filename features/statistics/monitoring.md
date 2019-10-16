@@ -26,11 +26,11 @@ We provide 7 system monitoring statistics as follows :
 {% endtab %}
 
 {% tab title="No answer" %}
-![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2848%29.png)
+![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2849%29.png)
 {% endtab %}
 
 {% tab title="Documents" %}
-![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2845%29.png)
+![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2846%29.png)
 {% endtab %}
 
 {% tab title="Search operations" %}

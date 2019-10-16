@@ -14,7 +14,7 @@ The question history table consists of the following columns:
 * **Answer:** The list of the MRC answers to the questions.
 * **Document:** The list of the documents containing the answers to the questions.
 
-![Question history page](../../.gitbook/assets/image%20%2827%29.png)
+![&apos;Question history&apos; page](../../.gitbook/assets/image%20%2842%29.png)
 
 
 

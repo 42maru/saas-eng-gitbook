@@ -21,5 +21,5 @@ You can see the rankings of the most frequently asked questions and check the do
 
 You can check the rankings of the most frequently viewed documents and the list of questions used to retrieve the documents.
 
-![Analytics\_Documents tab](../../.gitbook/assets/image%20%2863%29.png)
+![Analytics\_Documents tab](../../.gitbook/assets/image%20%2864%29.png)
 
