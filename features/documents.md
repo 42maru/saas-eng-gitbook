@@ -41,7 +41,7 @@ To configure ID, Title and Contents fields of documents, click the drop-down box
 
 ### **Insert a single document by 'Add document' button**
 
-![&apos;Add a document&apos; button](../.gitbook/assets/image%20%2818%29.png)
+![&apos;Add a document&apos; button](../.gitbook/assets/image%20%2819%29.png)
 
 ![](../.gitbook/assets/doc_upload_5.PNG)
 
