@@ -26,11 +26,11 @@ We provide 7 system monitoring statistics as follows :
 {% endtab %}
 
 {% tab title="No answer" %}
-![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2849%29.png)
+![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2852%29.png)
 {% endtab %}
 
 {% tab title="Documents" %}
-![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2846%29.png)
+![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2849%29.png)
 {% endtab %}
 
 {% tab title="Search operations" %}
@@ -38,11 +38,11 @@ We provide 7 system monitoring statistics as follows :
 {% endtab %}
 
 {% tab title="Status" %}
-![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2840%29.png)
+![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2841%29.png)
 {% endtab %}
 
 {% tab title="Log history" %}
-![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2839%29.png)
+![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2840%29.png)
 {% endtab %}
 {% endtabs %}
 
