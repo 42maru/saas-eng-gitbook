@@ -18,31 +18,31 @@ We provide 7 system monitoring statistics as follows :
 
 {% tabs %}
 {% tab title="Usage" %}
-![&apos;API usage&apos; Tab](../../.gitbook/assets/image%20%2814%29.png)
+![&apos;API usage&apos; Tab](../../.gitbook/assets/image%20%2815%29.png)
 {% endtab %}
 
 {% tab title="Latency" %}
-![&apos;Search Latency&apos; Tab](../../.gitbook/assets/image%20%2815%29.png)
+![&apos;Search Latency&apos; Tab](../../.gitbook/assets/image%20%2816%29.png)
 {% endtab %}
 
 {% tab title="No answer" %}
-![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2852%29.png)
+![&apos;No answer&apos; Tab](../../.gitbook/assets/image%20%2853%29.png)
 {% endtab %}
 
 {% tab title="Documents" %}
-![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2849%29.png)
+![&apos;Documents&apos; Tab](../../.gitbook/assets/image%20%2850%29.png)
 {% endtab %}
 
 {% tab title="Search operations" %}
-![&apos;Search operation&apos; Tab](../../.gitbook/assets/image%20%2811%29.png)
+![&apos;Search operation&apos; Tab](../../.gitbook/assets/image%20%2812%29.png)
 {% endtab %}
 
 {% tab title="Status" %}
-![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2841%29.png)
+![&apos;Status&apos; Tab](../../.gitbook/assets/image%20%2842%29.png)
 {% endtab %}
 
 {% tab title="Log history" %}
-![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2840%29.png)
+![&apos; Log history&apos; Tab](../../.gitbook/assets/image%20%2841%29.png)
 {% endtab %}
 {% endtabs %}
 

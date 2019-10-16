@@ -10,7 +10,7 @@ description: >-
 
 You can see the rankings of the most frequently asked questions and check the documents which contain the answers to these questions.
 
-![Analytics\_Questions tab](../../.gitbook/assets/image%20%2848%29.png)
+![Analytics\_Questions tab](../../.gitbook/assets/image%20%2849%29.png)
 
 * **Rank:** Shows the rankings of the most frequently asked questions.
 * **Question:** Shows users' question log.
@@ -21,5 +21,5 @@ You can see the rankings of the most frequently asked questions and check the do
 
 You can check the rankings of the most frequently viewed documents and the list of questions used to retrieve the documents.
 
-![Analytics\_Documents tab](../../.gitbook/assets/image%20%2869%29.png)
+![Analytics\_Documents tab](../../.gitbook/assets/image%20%2870%29.png)
 

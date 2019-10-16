@@ -35,13 +35,13 @@ Drop a file or click the box to upload. For xlsx files, it is recommended that t
 
 ![&apos;Document upload file preview&apos; page](../.gitbook/assets/doc_upload_2.PNG)
 
-![&apos;Document upload file preview\_configure the ID, Title, C&apos; page](../.gitbook/assets/doc_upload_3_2.PNG)
+![&apos;Document upload file preview\_configure the ID, title, content&apos; page](../.gitbook/assets/doc_upload_3_2.PNG)
 
 To configure ID, Title and Contents fields of documents, click the drop-down box at the top of the first row of the table. Then, click the 'Save' button at the bottom of the page to upload the file to the server.
 
 ### **Insert a single document by 'Add document' button**
 
-![&apos;Add a document&apos; button](../.gitbook/assets/image%20%2819%29.png)
+![&apos;Add a document&apos; button](../.gitbook/assets/image%20%2820%29.png)
 
 ![](../.gitbook/assets/doc_upload_5.PNG)
 
@@ -213,7 +213,11 @@ content is an essential information.
 ]
 ```
 
-## Documents management
+### Documents management
 
+![Document management](../.gitbook/assets/image%20%289%29.png)
 
+* **Edit a document:** You can modify a document by clicking a edit icon at the bottom right hand corner of the document item.
+* **Delete a document:** You can delete a document by clicking a trash can icon at the bottom right hand corner of the document item.
+* **Delete all documents:** You can delete all the documents from the server by clicking the 'Delete all' button in the '…' icon button at the top right of the page.
 
