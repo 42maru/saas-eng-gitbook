@@ -16,9 +16,9 @@ Click the 'Create test' button to create a test.
 
 Type a name of the test and describe it at the 'Create a test' modal and click the 'Save' button.
 
-![Can see a list of test you have created](../.gitbook/assets/image%20%2858%29.png)
+![A list of test you have created](../.gitbook/assets/image%20%2858%29.png)
 
-s
+Click the test name to get in the detail page for the bulk test.
 
 ### Bulk test management
 
