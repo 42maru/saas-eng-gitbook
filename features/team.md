@@ -38,7 +38,7 @@ After you create a team, check the ‘Team’ page at the top right corner to fi
 
 ![&apos;Invite member&apos; modal](../.gitbook/assets/image%20%2827%29.png)
 
-### Pending member list
+#### Pending member list
 
 Pending member list shows members who have not accepted your invitation. You can identify members or exclude members from the team. You can also check the invitees' emails, the teams that invited them, invitation dates, and cancel the invitations.
 
