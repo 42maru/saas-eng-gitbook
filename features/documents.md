@@ -23,7 +23,7 @@ Click the \[File upload\] button, and a new drag and drop window for upload will
 Supported file formats: json, xlsx
 {% endhint %}
 
-![&apos;Upload document&apos; page](../.gitbook/assets/image%20%285%29.png)
+![&apos;Upload document&apos; page](../.gitbook/assets/image%20%286%29.png)
 
 Drop a file or click the box to upload. For xlsx files, it is recommended that the files contain fields for ID, Title and Content. Click the 'Preview' button to preview the data.
 
@@ -41,7 +41,7 @@ To configure ID, Title and Contents fields of documents, click the drop-down box
 
 ### **Insert a single document by 'Add document' button**
 
-![&apos;Add a document&apos; button](../.gitbook/assets/image%20%2820%29.png)
+![&apos;Add a document&apos; button](../.gitbook/assets/image%20%2821%29.png)
 
 ![](../.gitbook/assets/doc_upload_5.PNG)
 
@@ -215,7 +215,7 @@ content is an essential information.
 
 ### Documents management
 
-![Document management](../.gitbook/assets/image%20%289%29.png)
+![Document management](../.gitbook/assets/image%20%2810%29.png)
 
 * **Edit a document:** You can modify a document by clicking a edit icon at the bottom right hand corner of the document item.
 * **Delete a document:** You can delete a document by clicking a trash can icon at the bottom right hand corner of the document item.

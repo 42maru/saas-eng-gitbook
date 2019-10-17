@@ -10,11 +10,11 @@ description: >-
 
 Navigate the 'Simulation' menu. Then enter your questions into the text box.
 
-![&apos;Simulation&apos; page](../.gitbook/assets/image%20%2862%29.png)
+![&apos;Simulation&apos; page](../.gitbook/assets/image%20%2863%29.png)
 
 If you have entered the questions correctly, you can check the answers and the retrieved documents. The correct answer is sorted in descending order by the confidence value.
 
-![&apos;Simulation&apos; page](../.gitbook/assets/image%20%2813%29.png)
+![&apos;Simulation&apos; page](../.gitbook/assets/image%20%2814%29.png)
 
 {% api-method method="get" host="http://alpha.42maru.com" path="/api/broker/answer" %}
 {% api-method-summary %}
