@@ -16,17 +16,15 @@ On the left side of the page, you can see the team list. If you click a team on 
 
 ### Create a team
 
-Click the '+ Create team' button on the left side of the page to create a team.
+Click the '+ Create team' button on the left side of the page to create a team. You can set a team name, select authorities you want to grant to the team and click the 'Save' button.
 
 ![&apos;Create team&apos; modal](../.gitbook/assets/image%20%2853%29.png)
 
 ### Edit team information and authority
 
-You can set a team name, select authorities you want to grant to the team and click the 'Save' button.
-
-![Team management](../.gitbook/assets/image%20%2840%29.png)
-
 You can modify the team name and each member’s authority by clicking the 'Edit' button in the '…' button which appears when you click the team on the team list.
+
+![Team management buttons in the team list](../.gitbook/assets/image%20%2840%29.png)
 
 ![&apos;Edit team&apos; modal](../.gitbook/assets/image%20%2887%29.png)
 
